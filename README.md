@@ -1,4 +1,3 @@
-````markdown
 # React Packing List App 🌴👜
 
 This is a simple React application that allows you to create and manage a packing list for your trip. It provides features for adding items, marking them as packed, sorting the list, and displaying packing statistics.
@@ -24,7 +23,6 @@ Follow these steps to run the app locally:
    git clone https://github.com/PrateekSavanur/Travel-List.git
    cd Travel-List
    ```
-````
 
 2. **Install Dependencies:**
 
